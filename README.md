@@ -111,8 +111,8 @@
 | Только изображения           | 0.51     | 0.68     | 0.48     |
 | **Гибрид (мультимодальный)** | **0.31** | **0.44** | **0.78** |
 
-Пример визуализации обучения моделей и важности признаков (SHAP):
-![Визуализации обучения моделей и важности признаков (SHAP)](https://raw.githubusercontent.com/CrazyTracer/Project_8/refs/heads/main/result.jpg)
+Визуализация обучения моделей и важности признаков (SHAP):
+![Визуализация обучения моделей и важности признаков (SHAP)](https://raw.githubusercontent.com/CrazyTracer/Project_8/refs/heads/main/result.jpg)
 
 ---
 
